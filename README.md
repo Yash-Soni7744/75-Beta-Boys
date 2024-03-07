@@ -6,19 +6,7 @@ Welcome to DesCode, the platform that empowers UI/UX designers and developers to
 
 ## Features
 
-### 1. UI/UX Tool Practice
-
-**Problem:**
-Lack of a dedicated platform for practicing UI/UX tool components.
-
-**Solution:**
-DesCode provides concise tutorials on crucial design concepts, such as variables and constraints, ensuring a hands-on learning experience.
-
-![2](https://github.com/Yash-Soni7744/75-Beta-Boys/assets/120086351/1c105014-0a60-40c5-8672-2347c4333ce3)
-![3](https://github.com/Yash-Soni7744/75-Beta-Boys/assets/120086351/d0adfcac-2854-44f2-af58-22454774a009)
-
-
-### 2. Design-Developer Handoffs
+### 1. Design Handoffs Delivery to Developer 
 
 **Problem:**
 No proper platform to interconnect/interlink the design handoffs with developers.
@@ -28,6 +16,17 @@ DesCode offers a dedicated coding space for executing web development workflows,
 
 ![design handoffs](https://github.com/Yash-Soni7744/75-Beta-Boys/assets/120086351/2c6bc467-d64a-474d-95f1-6b0dd41bdca8)
 ![import within github](https://github.com/Yash-Soni7744/75-Beta-Boys/assets/120086351/b8039c78-ce52-4b0a-8ed3-89b62c50ba74)
+
+### 2. UI/UX Tool Practice
+
+**Problem:**
+Lack of a dedicated platform for practicing UI/UX tool components.
+
+**Solution:**
+DesCode provides concise tutorials on crucial design concepts, such as variables and constraints, ensuring a hands-on learning experience.
+
+![2](https://github.com/Yash-Soni7744/75-Beta-Boys/assets/120086351/1c105014-0a60-40c5-8672-2347c4333ce3)
+![3](https://github.com/Yash-Soni7744/75-Beta-Boys/assets/120086351/d0adfcac-2854-44f2-af58-22454774a009)
 
 
 ### 3. GitHub Integration for Design Components
